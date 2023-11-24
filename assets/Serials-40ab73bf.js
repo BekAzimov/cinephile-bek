@@ -1,0 +1,1 @@
+import{_ as e}from"./ListContent-44fa4cd5.js";import{o as a,c as t,a as s}from"./index-aa971e85.js";const o={class:"main"},i={__name:"Serials",setup(c){return(r,_)=>(a(),t("main",o,[s(e,{type:"tv"})]))}};export{i as default};
